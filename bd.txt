@@ -1,2 +1,6 @@
 who are you?
+<<<<<<< HEAD
 I am abdur rahman
+=======
+this is not ajay
+>>>>>>> 172ab4e6cb5b39e0172cf9a37981ff5be0f23db7
